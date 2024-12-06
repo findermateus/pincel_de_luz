@@ -21,4 +21,4 @@ A ONG Pincel de Luz utiliza um website para trazer visibilidade e transparência
 
   - **Flutter**: Framework para desenvolvimento de aplicativos multiplataforma (iOS e Android).
   - **Backend**: A ser integrado com o sistema existente da ONG, utilizando APIs do site atual.
-  - **Supabase**: Para autenticação e armazenamento de dados, se necessário.
+  - **Supabase**: Para autenticação e armazenamento de dados.
